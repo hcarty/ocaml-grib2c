@@ -1,0 +1,7 @@
+# Specifications for Shapelib
+description = "NCEP NCO grib2 library interface"
+version = "1.2.3"
+browse_interfaces = " Grib2 "
+archive(byte) = "grib2.cma"
+archive(native) = "grib2.cmxa"
+
